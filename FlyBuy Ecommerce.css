@@ -158,7 +158,7 @@
 }
 
 .blogs-card-container {
-    height: 400px;
+    min-height: 400px;
 }
 
 .trending-blogs-card-subheading {
